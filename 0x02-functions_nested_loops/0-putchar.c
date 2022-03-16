@@ -6,9 +6,11 @@
 #include "main.h"
 
 /**
- * main - prints "_putchar" followed by new line
+ * main - check the code
  *
- * Return Always 0
+ * Description: print _putchar
+ *
+ * Return: 0
  */
 int main(void)
 {
