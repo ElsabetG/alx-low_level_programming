@@ -3,7 +3,7 @@
  * Auth: Elsabet Gebre
  */
 
-#include "_putchar.h"
+#include "main.h"
 
 /**
  * main - prints "_putchar" followed by new line
